@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)** -->
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Portfolio`.
 
 - 🌱 I’m currently learning `JavaScript`
 

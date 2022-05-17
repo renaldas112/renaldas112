@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Renaldas Barzdaitis</h1>
+<h1 align="center">Hello, my name is Renaldas</h1>
 
 <!--
 **renaldas112/renaldas112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

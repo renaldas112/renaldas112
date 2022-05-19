@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 Also working on side project `NFT - website` using `PHP`.
 
-- 🌱 I’m currently learning `JavaScript and React` at <img alt="CodeAcademy" scr="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" height="25px"/>
+- 🌱 I’m currently learning `JavaScript and React` at <img alt="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" height="25px"/>
 
 - ⚡ Games I play: Apex Legends, League of Legends, Valorant, Grand Theft Auto V
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started: -->
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<img alt="wordpress" scr="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="25px"/>
+<img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="25px"/>
   
 </p>
 

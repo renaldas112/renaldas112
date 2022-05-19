@@ -15,11 +15,13 @@ Here are some ideas to get you started: -->
 
 <img  src="./work.gif" height="290px" align="right" />
 
-<!-- - 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)** -->
+<!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 
-- 🔭 I’m currently working on `Portfolio`.
+- 🔭 I’m currently working on my perosnal`Portfolio` using `React.js`.
 
-- 🌱 I’m currently learning `JavaScript`
+- 🔭 Also working on side project `NFT - website` using `PHP`.
+
+- 🌱 I’m currently learning `JavaScript and React`
 
 - ⚡ Games I play: Apex Legends, League of Legends, Valorant, Grand Theft Auto V
 

@@ -17,9 +17,7 @@ Here are some ideas to get you started: -->
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 
-- 🔭 I’m currently working on my perosnal`Portfolio` using `React.js`.
-
-- 🔭 Also working on side project `NFT - website` using `PHP`.
+- 🔭 I’m currently working on my perosnal`Portfolio` using `React.js`. Also working on side project `NFT - website` using `PHP`.
 
 - 🌱 I’m currently learning `JavaScript and React` at <img alt="CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" height="15px"/>
 

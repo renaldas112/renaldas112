@@ -14,17 +14,17 @@ Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me:
 
   <img  src="./work.gif" height="200px" align="right" />
-<div>
+
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 🔭 Currently working on my personal `Portfolio` using `React.js`.
-  <br/>
+
 ✨ Also working on side project `NFT - website` using `PHP`.
-  <br/>
+
 🌱 Student in `CodeAcademy`
-  <br/>
+
 ⚡ Games I play: Apex Legends, League of Legends
-  <br/>
-  </div>
+
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>

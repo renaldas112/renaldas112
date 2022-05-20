@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 
-- 🔭 I’m currently working on my perosnal`Portfolio` using `React.js`.
+- 🔭 Currently working on my personal `Portfolio` using `React.js`.
 
 - ✨ Also working on side project `NFT - website` using `PHP`.
 

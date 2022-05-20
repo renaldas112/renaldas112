@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning `JavaScript and React` `CodeAcademy`
 
-- ⚡ Games I play: Apex Legends, League of Legends, Valorant, Grand Theft Auto V
+- ⚡ Games I play: Apex Legends, League of Legends
 
 ## 🛠️ Technologies and Tools I use:
 

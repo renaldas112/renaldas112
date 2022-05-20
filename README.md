@@ -19,15 +19,14 @@ Here are some ideas to get you started: -->
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 <span>
-- 🔭 Currently working on my personal `Portfolio` using `React.js`.
+🔭 Currently working on my personal `Portfolio` using `React.js`.
 
-- ✨ Also working on side project `NFT - website` using `PHP`.
+✨ Also working on side project `NFT - website` using `PHP`.
 
-- 🌱 I’m currently learning `JavaScript and React` `CodeAcademy`
+🌱 I’m currently learning `JavaScript and React` `CodeAcademy`
 
-- ⚡ Games I play: Apex Legends, League of Legends
-
-  </span>
+⚡ Games I play: Apex Legends, League of Legends
+</span>
   
 ## 🛠️ Technologies and Tools I use:
 

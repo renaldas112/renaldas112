@@ -13,10 +13,9 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-  <img  src="./work.gif" height="250px" align="right" />
+  <img  src="./work.gif" height="200px" align="right" />
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
-<span>
 🔭 Currently working on my personal `Portfolio` using `React.js`.
 
 ✨ Also working on side project `NFT - website` using `PHP`.
@@ -24,7 +23,6 @@ Here are some ideas to get you started: -->
 🌱 I’m currently learning `JavaScript and React` `CodeAcademy`
 
 ⚡ Games I play: Apex Legends, League of Legends
-</span>
   
 ## 🛠️ Technologies and Tools I use:
 

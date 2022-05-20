@@ -17,13 +17,13 @@ Here are some ideas to get you started: -->
 <div>
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 🔭 Currently working on my personal `Portfolio` using `React.js`.
-  <br>
+  <br/>
 ✨ Also working on side project `NFT - website` using `PHP`.
-  <br>
+  <br/>
 🌱 Student in `CodeAcademy`
-  <br>
+  <br/>
 ⚡ Games I play: Apex Legends, League of Legends
-  <br>
+  <br/>
   </div>
 ## 🛠️ Technologies and Tools I use:
 

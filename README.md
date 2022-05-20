@@ -13,10 +13,12 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<span><img  src="./work.gif" height="250px" align="right" /></span>
+<span>
+  <img  src="./work.gif" height="250px" align="right" />
+</span>
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
-
+<span>
 - 🔭 Currently working on my personal `Portfolio` using `React.js`.
 
 - ✨ Also working on side project `NFT - website` using `PHP`.
@@ -25,6 +27,8 @@ Here are some ideas to get you started: -->
 
 - ⚡ Games I play: Apex Legends, League of Legends
 
+  </span>
+  
 ## 🛠️ Technologies and Tools I use:
 
 <p>

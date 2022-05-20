@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-  <img  src="./work.gif" height="200px" align="right" />
+  <img  src="./work.gif" height="290px" align="right" />
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 🔭 Currently working on my personal `Portfolio` using `React.js`.

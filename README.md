@@ -16,8 +16,6 @@ Here are some ideas to get you started: -->
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
 🔭 Currently working on my personal `Portfolio` using `React.js`.
 
-✨ Also working on side project `NFT - website`.
-
 🌱 Student in `CodeAcademy`
 
 ⚡ Games I play: Apex Legends, League of Legends

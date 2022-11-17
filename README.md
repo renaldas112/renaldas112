@@ -47,18 +47,3 @@ Here are some ideas to get you started: -->
   <a href="https://www.instagram.com/realrenaldas/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
-
-##  Support me
-
-<p>
-  <a href="https://www.buymeacoffee.com/renaldas112" target="_blank">
-    <img alt="BuyMeACoffee" src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"  height="30px"/></a> 
-</p>
-
-## 📊 My GitHub Data:
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renaldas112&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renaldas112" alt="renaldas112" />
-</div>
- 

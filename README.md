@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 🌱 Student in `CodeAcademy`
 
-⚡ Games I play: Apex Legends, League of Legends
+⚡ Games I play: Apex Legends, League of Legends, WZ 2.0
 
 
 ## 🛠️ Technologies and Tools I use:

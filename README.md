@@ -14,9 +14,9 @@ Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me:
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](-url-to-my-website-/)** -->
-🔭 Currently working on my personal `Portfolio` using `React.js`.
+🔭 Personal `Portfolio` <a>https://renaldas112.netlify.app</a>
 
-🌱 Student in `CodeAcademy`
+🌱 `CodeAcademy` graduate
 
 ⚡ Games I play: Apex Legends, League of Legends, WZ 2.0
 

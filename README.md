@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 🌱 `CodeAcademy` graduate
 
-⚡ Games I play: Apex Legends, League of Legends, WZ 2.0
+⚡ Currently working on a platformer game using Unity
 
 
 ## 🛠️ Technologies and Tools I use:
